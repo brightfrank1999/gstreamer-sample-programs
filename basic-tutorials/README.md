@@ -3,7 +3,7 @@
 ### Development Environment
 ```
 Ubuntu 20.04
-gstreamer 
+gstreamer 1.16.3 
 gcc 9.4.0
 ```
 ### Install GSt
