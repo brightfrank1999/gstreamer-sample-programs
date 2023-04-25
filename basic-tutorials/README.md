@@ -6,11 +6,13 @@ Ubuntu 20.04
 gstreamer 
 gcc 9.4.0
 ```
+### Install GSt
 
 ```
 sudo 
 ```
 
+### Compile and run the programs
 ```
 
 ```
