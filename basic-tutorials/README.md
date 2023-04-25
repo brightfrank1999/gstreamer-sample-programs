@@ -1,4 +1,4 @@
-# Basic tutorials of GStreamer
+## Basic tutorials of GStreamer
 
 Ubuntu 20.04
 
