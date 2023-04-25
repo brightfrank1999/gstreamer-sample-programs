@@ -1,6 +1,6 @@
 ## Basic tutorials of GStreamer
 
-### Environment
+### Development Environment
 Ubuntu 20.04
  
 ```
