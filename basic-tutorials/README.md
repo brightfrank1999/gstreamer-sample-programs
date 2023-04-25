@@ -1,6 +1,6 @@
 ## Basic tutorials of GStreamer
 
-### Requirements
+### Environment
 Ubuntu 20.04
  
 ```
