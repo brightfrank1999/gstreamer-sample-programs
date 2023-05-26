@@ -15,5 +15,5 @@ sudo
 
 ### Compile and run the programs
 ```
-gcc filename.c -o filename `ddddd`
+gcc filename.c -o filename `pkg-config --cflag --libs gstreamer-1.0`
 ```
