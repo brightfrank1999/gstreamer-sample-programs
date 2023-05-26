@@ -1,4 +1,4 @@
-## Collection of Gstreamer Applicationss
+## Collection of Gstreamer Programs
 
 ### Coding environment
 ```
