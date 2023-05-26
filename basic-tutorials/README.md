@@ -15,5 +15,5 @@ sudo
 
 ### Compile and run the programs
 ```
-gcc filename.c -o filename ``
+gcc filename.c -o filename `ddddd`
 ```
