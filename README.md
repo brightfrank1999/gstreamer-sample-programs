@@ -1,1 +1,1 @@
-## Collection of Gstreamer Programs
+## Collection of Gstreamer Sample Programs
